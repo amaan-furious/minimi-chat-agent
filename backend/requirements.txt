@@ -1,0 +1,8 @@
+# All packages below are pure Python or already available on most systems.
+# No C extensions, no Rust, no build tools required.
+fastapi>=0.103.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+sse-starlette>=2.1.0
+httpx>=0.25.0
+pydantic>=1.10.0
